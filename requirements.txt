@@ -1,0 +1,9 @@
+requests
+spacy
+praw
+tweepy
+python-dotenv
+nltk
+textblob
+black
+flake8
